@@ -1,6 +1,9 @@
 # Cricket-Analytics
 **Build Dashboard  in power BI to find Best 11 T-20 players.**<br>
 
+**Report Link**:<br> 
+https://www.novypro.com/project/cricket-analytics
+
 **1.Situation:**<br>
 Aliean  watch cricket Game and they like the sport.<br>
 They called Nickpuri the Cheif of F.I.E.L.D to surrunder earth otherwise they will destory the earth.<br>
